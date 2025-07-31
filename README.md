@@ -10,7 +10,7 @@ Welcome! This repository serves as a centralized hub for my machine learning pro
 |-------|----------------------------------|----------------------------------------------------|-------------------------------------------------------|
 | 1     | Introduction to Machine Learning  | Exploratory data analysis and basic ML modeling    | [Lab 1 Repo](https://github.com/rileybarka/Lab-1-Intro-to-ML) |
 | 2     | Data Preparation & Cleaning       | Data understanding and preparation for regression | [Lab 2 Repo](https://github.com/rileybarka/Lab-2-Airbnb-Data-Preparation) |
-| 3     | Classification Modeling           | Decision trees & KNN for classification tasks      | [Lab 3 Repo](https://github.com/rileybarka/Lab-3-Lab-3-Airbnb-Modeling-Classification) |
+| 3     | Classification Modeling           | Decision trees & KNN for classification tasks      | [Lab 3 Repo](https://github.com/rileybarka/Lab-3-Airbnb-Modeling-Classification) |
 | 4     | Logistic Regression from Scratch  | Implement logistic regression via gradient descent | [Lab 4 Repo](https://github.com/rileybarka/Lab-4-Airbnb-Logistic-Regression) |
 | 5     | Model Selection & Evaluation      | Hyperparameter tuning and ROC/PR curve analysis    | [Lab 5 Repo](https://github.com/rileybarka/Lab-5-Airbnb-Model-Evaluation) |
 | 6     | Regression & Ensemble Methods     | Training individual and ensemble regressors        | [Lab 6 Repo](https://github.com/rileybarka/Lab-6-Airbnb-Regression-Ensemble) |
