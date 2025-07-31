@@ -1,6 +1,6 @@
 # Riley Barka’s AI Studio Portfolio
 
-Welcome! This repository serves as a centralized hub for my machine learning projects completed during the eCornell Fall AI Studio program.
+Welcome! This repository serves as a centralized hub for my machine learning projects completed during the eCornell Break Through Tech Fall AI Studio program.
 
 ---
 
@@ -19,16 +19,10 @@ Welcome! This repository serves as a centralized hub for my machine learning pro
 
 ---
 
-## About Me
-
-I am Riley Barka, an aspiring data scientist and machine learning enthusiast currently completing the eCornell AI Studio program. My interests include industrial design, AI ethics, and creating meaningful applications of machine learning.
-
----
-
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/rileybarka)  
-- Email: riley@example.com
+  [![](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riley-barka)
+  [![](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barkar@wit.edu)
 
 ---
 
