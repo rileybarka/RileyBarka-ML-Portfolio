@@ -16,6 +16,8 @@ Welcome! This repository serves as a centralized hub for my machine learning pro
 | 6     | Regression & Ensemble Methods     | Training individual and ensemble regressors        | [Lab 6 Repo](https://github.com/rileybarka/Lab-6-Airbnb-Regression-Ensemble) |
 | 7     | CNN for MNIST Digit Classification| Deep learning with convolutional neural networks   | [Lab 7 Repo](https://github.com/rileybarka/Lab-7-MNIST-CNN) |
 | 8a    | Custom ML Project                 | End-to-end ML lifecycle with selected dataset       | [Lab 8a Repo](https://github.com/rileybarka/Lab-8a-Custom-ML-Project) |
+| 8b    | Final ML Project                 | Complete machine learning project from data loading through model tuning using Airbnb dataset | [Lab 8b Repo](https://github.com/rileybarka/Lab-8b-Airbnb-Review-Prediction) |
+
 
 ---
 
